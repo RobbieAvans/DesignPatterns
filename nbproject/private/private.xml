@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/Clock.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/EST.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/Sound.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Presentation/ClockPresentation.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/Tick.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/MET.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/NoTick.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Presentation/DigitalClockPresentation.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/AnalogClock.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/TimeZone.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Control/ClockControl.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Presentation/AnalogClockPresentation.java</file>
+            <file>file:/C:/Users/Sander/Documents/GitHub/ivh11a1b/Design%20Patterns/src/strategypattern/Abstraction/DigitalClock.java</file>
+        </group>
+    </open-files>
+</project-private>
